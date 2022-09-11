@@ -7,3 +7,5 @@
 *.lock
 *.json
 *.suo
+*.testlog
+*.manifest
